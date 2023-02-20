@@ -49,7 +49,7 @@ function validaTelefone() {
 }
 
 function validaMensagem() {
-    if(requerido[3].value.length < 3 ){
+    if(requerido[3].value == "" ){
         error(3);
     } else {
         retiraError(3);
