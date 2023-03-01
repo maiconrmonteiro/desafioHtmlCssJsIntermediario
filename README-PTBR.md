@@ -13,4 +13,4 @@ Nesse projeto utilizei function's para adicionar e retirar estilos dos elementos
 ## ✒️ Autor
 
 
-* **Maicon Monteiro** - *Documentação* - [Maicon Monteiro](https://github.com/maiconrmonteiro)
+* **Maicon Monteiro** - [Maicon Monteiro](https://github.com/maiconrmonteiro)
