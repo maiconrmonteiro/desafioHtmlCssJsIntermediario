@@ -1,12 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
-
-
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
 body { 
     width: 100vw;
     height: 100%;
@@ -53,7 +44,8 @@ main {
 .formulario {
     background-color: #FFFFFF;
     width: 30vw;
-    height: 90vh;
+    height: auto;
+    padding: 30px 0px 30px 0px;
     border-radius: 5px;
     box-shadow: 14px 14px 44px -17px rgba(0,0,0,0.75);
 }
@@ -140,7 +132,7 @@ span {
 
 
     .formulario {
-        height: 55%;
+        height: auto;
         border-radius: 10px;
         box-shadow: 14px 14px 44px -17px rgba(0,0,0,0.75);
     }
